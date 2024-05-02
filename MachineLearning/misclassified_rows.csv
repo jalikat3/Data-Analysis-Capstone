@@ -1,0 +1,36 @@
+Plaintiff_Name,Defendant_Name,State_of_Filing,Date_of_Filing,Industry,Website,Keyword_1,Keyword_2,Keyword_3,Keyword_4,Keyword_5,Requested_Damages,Predicted_Result
+Mary West,"The Muse Gallery Guesthouse LLC owns and operates the Muse Gallery Guesthouse, a bed and breakfast in Milwaukee, Wisconsin.",Wisconsin,2019-04,"Hotel, Restaurant and Leisure",www.themuseguesthouse.com,Lack of Proper Keyboard Support,Lack of Proper Navigation,Missing Alt-Text,Missing label,Element required finger for use,0,1
+Nelson Fernandez,Bose Corporation,Florida,2020-07,Consumer Goods,www.bose.com/en_us,Lack of Screen Reader Support,Lack of Screen Reader Support,Mislabeled element,Missing Alt-Text,Other accessibility issue,1,0
+Emily Fuller,"Tampa Sportservice, Inc. 
+TB Sports Retail, LLC",Florida,2019-01,Consumer Goods,www.tampabaysports.com,Lack of Screen Reader Support,Mislabeled Buttons,Mislabeled element,Mislabeled element,Mislabeled image,1,0
+Stephen Giannaros,"Epic Sports, Inc.",Massachusetts,2020-06,Leisure Products,www.epicsports.com,Lack of Proper Navigation,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,Missing Alt-Text,0,1
+Arnold Vargas,"Power Equipment Direct, Inc.",Massachusetts,2019-03,Consumer Goods,www.powerequipmentdirect.com,Lack of Proper Keyboard Support,Lack of Proper Navigation,Lack of Screen Reader Support,Lack of Screen Reader Support,Missing Alt-Text,0,1
+Juan Carlos Gil,"City of Cape Coral, Florida",Florida,2019-04,Governmental Entity,www.capecoral.net,nan,nan,Element contains duplicate IDs,Element not resizable,Element required finger for use,1,0
+Juan Carlos Gil,Baldinini S New York LLC,Florida,2019-05,Consumer Durables & Apparel,www.baldini-shop.com,Missing Alt-Text,Other accessibility issue,Element contains duplicate IDs,Element not resizable,Element required finger for use,1,0
+Demieli Wright,Hyper Ice Inc.,Indiana,2021-01,Consumer Goods,www.hyperice.com/,Lack of Proper Navigation,Lack of Screen Reader Support,Missing Alt-Text,Element not resizable,Element required finger for use,0,1
+CARLTON  KNOWLES,"H W GILPIN ENTERPRISES, INC.",Illinois,2019-04,"Hotel, Restaurant and Leisure",www.hawkvalleyretreat.com,Lack of Proper Keyboard Support,nan,Element contains duplicate IDs,Element not resizable,Element required finger for use,0,1
+Jack Kang,Steve Madden Ltd.,New York,2019-04,Consumer Durables & Apparel,www.stevemadden.com,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,Missing Alt-Text,Element required finger for use,0,1
+Juan Carlos Gil,"VIX Swimwear, Inc",Florida,2019-04,Consumer Durables & Apparel,www.vixpaulahermanny.com,Other accessibility issue,Other Non-Empty Issue,Element contains duplicate IDs,Element not resizable,Element required finger for use,1,0
+Ann Chiappetta,"American Council of the Blind of New York, Inc.
+New York State Division of Homeland Security and Emergency Services
+Commissioner Patrick A. Murphy
+Governor Andrew M. Cuomo",New York,2020-10,Governmental Entity,www.alert.ny.gov,Inaccessible Element,Missing Keyboard Focus Indicator,Other Non-Empty Issue,Other Non-Empty Issue,Other Non-Empty Issue,0,1
+Jose Figueroa,"Vitacost.com, Inc",New York,2019-04,Medical,www.vitacost.com,nan,nan,nan,nan,nan,0,1
+Nelson Fernandez,"Ruth's Hospitality Group, Inc.",Florida,2020-07,"Hotel, Restaurant and Leisure",www.ruthschris.com,Empty or Broken Element,Inaccessible Element,Lack of Screen Reader Support,Mislabeled element,Element required finger for use,1,0
+Rebecca Castillo,"Wolf & Shepherd, LLC",California,2019-02,Automobile,www.wolfandshepherd.com,Inaccessible Checkout System,Inaccessible Element,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,0,1
+Demieli Wright,RDX Sports LLC,Indiana,2020-04,Leisure Products,www.rdxsports.com,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,Element not resizable,Element required finger for use,0,1
+Victor Ariza,"Yardhouse USA, Inc.",Florida,2020-07,"Hotel, Restaurant and Leisure",www.yardhouse.com/home,Empty or Broken Element,Lack of Screen Reader Support,Loss of information,Mislabeled Buttons,Missing label,1,0
+Demieli Wright,"The Finish Line, Inc.",Indiana,2020-10,Consumer Durables & Apparel,www.jdsports.com,Lack of Proper Navigation,Lack of Screen Reader Support,Low Contrast,Element not resizable,Element required finger for use,0,1
+Nelson Fernandez,"Nordstrom, Inc.",Florida,2020-06,Consumer Durables & Apparel,www.shop.nordstrom.com,Loss of information,Mislabeled element,Missing Alt-Text,Missing label,Element required finger for use,0,1
+Joel Price,"Tampa J Automotive Management, LLC",Florida,2019-02,Automobile,www.jerryulmchryslerdodgejeepram.com,Other accessibility issue,Other Non-Empty Issue,Element contains duplicate IDs,Element not resizable,Element required finger for use,1,0
+Demieli Wright,"Thread Experiment, LLC",Indiana,2019-04,Consumer Goods,www.threadexperiment.com,Inaccessible Element,Lack of Screen Reader Support,Element contains duplicate IDs,Element not resizable,Element required finger for use,0,1
+JOEL PRICE,"ORANGE BUICK GMC, INC",Florida,2019-01,Automobile,www.orangebuickgmc.com,Inaccessible Element,Lack of Screen Reader Support,Other accessibility issue,Element not resizable,Element required finger for use,1,0
+Daniel Moncada,"Volkswagen Group of America, Inc.",Florida,2019-07,Automobile,www.vw.com,Lack of Screen Reader Support,Mislabeled Buttons,Mislabeled Buttons,Mislabeled element,Mislabeled element,1,0
+Demieli Wright,Nuun & Company Inc.,Indiana,2020-03,Consumer Goods,www.nuunlife.com,Lack of Proper Keyboard Support,Missing Alt-Text,Other accessibility issue,Element not resizable,Element required finger for use,0,1
+James Rutherford,"On the Beach, LLC",California,2019-12,"Hotel, Restaurant and Leisure",www.veniceonthebeachhotel.com/,Mislabeled element,Missing label,Missing label,nan,nan,0,1
+Emily Fuller,"Anthony Retail, LLC",Florida,2019-01,Consumer Durables & Apparel,www.sassypantsorlando.com,Lack of Screen Reader Support,Mislabeled element,Missing Alt-Text,Missing label,Element required finger for use,1,0
+Andres Gomez,"Barbeque Integrated, Inc.",Florida,2020-10,"Hotel, Restaurant and Leisure",www.smokeybones.com,Element without Title,Incorrect Reading Sequence,Lack of Screen Reader Support,Loss of information,Missing Alt-Text,0,1
+Cesar Cotto,"Ample Hills Hillhurst, LLC",California,2019-02,"Hotel, Restaurant and Leisure",www.amplehills.com,Inaccessible Checkout System,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,Missing label,0,1
+Elia Haggar,"Allen Edmonds, LLC",Florida,2019-08,Consumer Durables & Apparel,www.allenedmonds.com,Lack of Proper Navigation,Missing Alt-Text,Missing Alt-Text,Missing Alt-Text,Element required finger for use,1,0
+Daniel Moncada,"Regal Cinemas, Inc.",Florida,2019-07,Entertainment,www.regmovies.com,Lack of Screen Reader Support,Lack of Screen Reader Support,Mislabeled Buttons,Missing Alt-Text,Other accessibility issue,1,0
+Demieli Wright,"Tile, Inc.",Indiana,2019-03,Internet Software and Services,www.thetileapp.com,Empty Buttons,Lack of Proper Keyboard Support,Lack of Screen Reader Support,Lack of Screen Reader Support,Element required finger for use,0,1

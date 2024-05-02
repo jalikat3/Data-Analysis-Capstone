@@ -3,4 +3,3 @@ This is the code that I used in order to analyze the data in my Big Data Analyti
 
 # Contents
 Included are python code used to create the web scraper, some csv outputs from MySQL queries, and python visual analysis code.
-More will be updated soon!

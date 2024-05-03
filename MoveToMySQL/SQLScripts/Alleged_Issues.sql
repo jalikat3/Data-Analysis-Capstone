@@ -103,12 +103,14 @@ where keyword='Other Non-Empty Issue'
 and issue="Many pages on the Website also contain the same title elements"
 );
 
-SET SQL_SAFE_UPDATES = 0;
 
-SELECT Count(*) as total, keyword FROM alleged_issues
+SELECT keyword,  Count(*) as total FROM alleged_issues
 where keyword in ('N/A', 'Other Non-Empty Issue')
 group by Keyword
-order by total desc;
+order by total desc
+limit 20;
+
+SET SQL_SAFE_UPDATES = 0;
 
 Update alleged_issues
 set Keyword=

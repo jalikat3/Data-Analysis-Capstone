@@ -3,31 +3,27 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import numpy as np
 
-# Read the CSV file
-data = pd.read_csv('../CSVs/issue_top_twenty.csv')
+data = pd.read_csv('../CSVs/TopAllegedIssues.csv')
 
-# Sort the data by 'Total' column in descending order
 data = data.sort_values(by='Total', ascending=False)
 
-# Reset index
-data.reset_index(drop=True, inplace=True)
+top_20 = data.head(20)
 
-# Create a colormap based on 'Total' with pastel colors
+top_20.reset_index(drop=True, inplace=True)
+
 cmap = plt.cm.get_cmap('Spectral_r')
-norm = mcolors.Normalize(vmin=data['Total'].min(), vmax=data['Total'].max())
-colors = cmap(norm(data['Total']))
+norm = mcolors.Normalize(vmin=top_20['Total'].min(), vmax=top_20['Total'].max())
+colors = cmap(norm(top_20['Total']))
 
-# Reshape colors array to match the shape of the table
-num_rows, num_cols = data.shape
+num_rows, num_cols = top_20.shape
 colors = np.repeat(colors[:, np.newaxis], num_cols, axis=1)
 
-# Display the data in a table with colored cells
 fig, ax = plt.subplots(figsize=(8, 6))
 ax.axis('tight')
 ax.axis('off')
 white_font_colors = np.full_like(colors, 'white', dtype=object)
 
-table = ax.table(cellText=data.values, colLabels=data.columns, cellColours=colors, loc='center')
+table = ax.table(cellText=top_20.values, colLabels=top_20.columns, cellColours=colors, loc='center')
 for (i, j), cell in table.get_celld().items():
     if (i > 0) and (j > -1):
         cell.set_text_props(fontsize=12, color='white', weight='bold')

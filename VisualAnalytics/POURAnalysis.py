@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import textwrap
 
-data = pd.read_csv('./Results_CSV/POUR_Results.csv')
+data = pd.read_csv('../CSVs/POUR_Results.csv')
 data = data.sort_values(by='Total', ascending=False)
 
 principal = data['POUR_Principal']
@@ -14,9 +14,9 @@ plt.grid(True, linestyle='--', alpha=0.5, zorder=0)
 plt.bar(principal, total, color='lightblue', width=0.5, zorder=3)
 
 
-plt.xlabel('Principal', fontsize=12)
+plt.xlabel('Principle', fontsize=12)
 plt.ylabel('Total', fontsize=12)
-plt.title('POUR Principals in Alleged Issues', fontsize=14)
+plt.title('POUR Principles in Alleged Issues', fontsize=14)
 plt.legend(fontsize=10)
 
 #plt.xticks(range(len(industries)), industries, fontsize=8, wrap=True, ha='right', rotation=90)
